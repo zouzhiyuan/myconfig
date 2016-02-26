@@ -1,4 +1,8 @@
 eclipse.preferences.version=1
+<<<<<<< HEAD
+include_path=
+=======
 include_path=0;/config
+>>>>>>> branch 'zouzhiyuan_config' of https://github.com/zouzhiyuan/myconfig.git
 phpVersion=php7.0
 use_asp_tags_as_php=false
